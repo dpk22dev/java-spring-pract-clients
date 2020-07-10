@@ -1,0 +1,5 @@
+start redis
+service redis start
+
+start mongo
+service mongod start
